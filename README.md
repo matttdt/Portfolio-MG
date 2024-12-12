@@ -41,7 +41,7 @@
 <body>
     <header>
         <h1>Bienvenue sur mon portfolio !</h1>
-        <p>Etudiant à l'ILEPS en Licence Professionnelle Commercialisation des Produits et Services Sportifs dans le secteur de la communication, actuellement au Stade Brestois.</p>
+        <p>Etudiant à l'ILEPS en Licence Professionnelle Commercialisation des Produits et Services Sportifs.</p>
     </header>
 
     <section>
